@@ -1,6 +1,6 @@
 import { useRef, useState } from "react";
 
-const TEAMS = ["Team A", "Team B", "Team C", "Team D"];
+const TEAMS = ["บก.ทท.2", "บก.ทท.1", "บก.อก.บช.ทท", "บก.ทท.3"];
 const COLORS = ["#ef4444", "#facc15", "#3b82f6", "#22c55e"];
 
 export default function App() {
