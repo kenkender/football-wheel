@@ -70,7 +70,7 @@ export default function App() {
               key={t}
               className="label"
               style={{
-                transform: `rotate(${i * slice + slice / 2}deg) translate(0,-120px)`,
+                transform: `translateX(-50%) rotate(-${i * slice + slice / 2}deg) translateY(-160px) rotate(${i * slice + slice / 2}deg)`,
               }}
             >
             {t}
